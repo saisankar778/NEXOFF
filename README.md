@@ -107,4 +107,4 @@ pip install -r requirements.txt
 MIT License
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request. 
+Contributions are welcome! Please open an issue or submit a pull request. "# NEXOFF" 
